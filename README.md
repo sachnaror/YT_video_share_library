@@ -114,11 +114,12 @@ uvicorn reactions.main:app --reload --host 0.0.0.0 --port 8003
 uvicorn users.main:app --reload --host 0.0.0.0 --port 8000
 ```
 
-### docs
+### Docs
 - videos:http://127.0.0.1:8002/videos/docs
 - users:http://127.0.0.1:8000/users/docs
 - reactions:http://127.0.0.1:8003/reactions/docs
 
+### Structure
 
 ```
 ├── YT_video_share_library/
